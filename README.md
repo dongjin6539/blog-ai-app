@@ -1,6 +1,6 @@
 # NEXT-BLOG
 
-<img src="public/assets/blog.jpg"  width="1000" height="500">
+<img src="https://github.com/dongjin6539/blog-ai-app/blob/main/readme.png"  width="1000" height="500">
 
 NEXT.JS 13.3 버전으로 작성한 블로그 입니다.
 
